@@ -13,6 +13,7 @@ while(true){
     }
 
   }
+  console.log(sam + " " + ycount);
 
   if(ycount >= 500){
     break;
