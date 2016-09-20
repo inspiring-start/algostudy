@@ -22,7 +22,7 @@ function getMin( num ){
       }
     }
     next = false;
-
+    
   }
 
   // console.log(a);
